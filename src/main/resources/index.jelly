@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Make CLI work with CSRF protection crumb enabled.
+</div>
